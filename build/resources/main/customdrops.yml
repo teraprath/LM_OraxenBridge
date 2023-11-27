@@ -1,9 +1,0 @@
-# Visit wiki for documentation: https://github.com/teraprath/LM_OraxenBridge/wiki
-
-# Example:
-ZOMBIE:
-  orax:
-    amount: 1
-    chance: 0.7
-    min_level: 2
-    max_level: 8
